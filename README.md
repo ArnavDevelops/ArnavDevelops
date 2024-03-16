@@ -1,7 +1,7 @@
 # Arnav
  
 - 🧑‍🎓 A School Student who wants to grow up and get into IIT or study aboard.
-- 💖 Found Interest in programming since I was 12 years old.
+- 💖 Found Interest in programming since 2020
 - 📝 Learning Python.
 
 Currently I know these Languages:
